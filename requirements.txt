@@ -1,0 +1,11 @@
+torch
+torchvision
+transformers
+numpy
+opencv-python
+matplotlib
+tqdm
+Pillow
+torchinfo
+pytorch-msssim
+scikit-learn
